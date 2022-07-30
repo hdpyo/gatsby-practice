@@ -11,6 +11,7 @@
     "gatsby-plugin-manifest": "^4.19.0",
     "gatsby-plugin-offline": "^5.19.0",
     "gatsby-plugin-sharp": "^4.19.0",
+    "gatsby-plugin-typescript": "^4.19.0",
     "gatsby-source-filesystem": "^4.19.0",
     "gatsby-transformer-sharp": "^4.19.0",
     "prop-types": "^15.8.1",
@@ -18,6 +19,11 @@
     "react-dom": "^18.1.0"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.7.1"
   },
   "keywords": [
